@@ -1,5 +1,5 @@
 # Club Name
-*Last modified 2018-MM-DD*
+*Last modified 2018-09-06*
 
 ## Purpose
 
